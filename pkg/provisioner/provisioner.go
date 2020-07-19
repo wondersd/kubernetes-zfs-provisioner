@@ -4,7 +4,7 @@ import "strconv"
 
 import "k8s.io/client-go/pkg/api/v1"
 import "github.com/prometheus/client_golang/prometheus"
-import zfs "github.com/simt2/go-zfs"
+import zfs "github.com/wondersd/go-zfs"
 import log "github.com/Sirupsen/logrus"
 
 const (

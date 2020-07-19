@@ -205,9 +205,9 @@
 
 [[projects]]
   branch = "master"
-  name = "github.com/simt2/go-zfs"
+  name = "github.com/wondersd/go-zfs"
   packages = ["."]
-  revision = "1716e0f6768bfdedb714a35e56b78c479d8080fa"
+  revision = "6868d9023ce13f5367e80de4a6a9bc56667e96a0"
 
 [[projects]]
   name = "github.com/spf13/afero"

@@ -8,11 +8,11 @@ import (
 	"time"
 
 	log "github.com/Sirupsen/logrus"
-	"github.com/gentics/kubernetes-zfs-provisioner/pkg/provisioner"
+	"github.com/wondersd/kubernetes-zfs-provisioner/pkg/provisioner"
 	"github.com/kubernetes-incubator/external-storage/lib/controller"
 	"github.com/prometheus/client_golang/prometheus"
 	"github.com/prometheus/client_golang/prometheus/promhttp"
-	"github.com/simt2/go-zfs"
+	"github.com/wondersd/go-zfs"
 	"github.com/spf13/viper"
 	"k8s.io/apimachinery/pkg/util/validation"
 	"k8s.io/apimachinery/pkg/util/validation/field"

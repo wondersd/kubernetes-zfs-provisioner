@@ -35,7 +35,7 @@
 
 [[constraint]]
   branch = "master"
-  name = "github.com/simt2/go-zfs"
+  name = "github.com/wondersd/go-zfs"
 
 [[constraint]]
   name = "github.com/spf13/viper"
